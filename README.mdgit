@@ -1,0 +1,1 @@
+"# airline_management_system"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/HamzaAhmedShad/airline_management_system.gitgit push -u origin main
